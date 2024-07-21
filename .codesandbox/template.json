@@ -1,0 +1,17 @@
+{
+  "title": "Create-T3-app",
+  "description": "This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.",
+  "iconUrl": "https://raw.githubusercontent.com/codesandbox/sandbox-templates/main/create-t3-app/.codesandbox/icon.png",
+  "tags": [
+    "starter",
+    "javascript",
+    "typescript",
+    "t3",
+    "t3-stack",
+    "react",
+    "nextjs",
+    "tailwindcss",
+    "trpc"
+  ],
+  "published": true
+}
